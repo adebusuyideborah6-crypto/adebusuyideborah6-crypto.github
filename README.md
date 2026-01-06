@@ -15,7 +15,7 @@
             I am learning web design with HTML. However this is also to show my business idea.
         </p>
 
-<img src="file:///storage/emulated/0/index.html/image.jpg" alt="My business image" width="300">
+        <img src="image.jpg" alt="My business image" width="300">
     </main>
 
 </body>
